@@ -73,7 +73,6 @@ BeyondTheBlackBox_Kilian_Schicho/
 ├── README.md
 │── README.html
 ├── requirements.txt
-├── final_performance_comparison.xlsx # compact overview of all results
 ├── master_pipeline.py # master pipeline to run all separate model pipelines in sequence 
 │
 ├── /input/ # FRED-MD (2025-12)
